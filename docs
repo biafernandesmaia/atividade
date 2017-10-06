@@ -1,0 +1,11 @@
+Requisitos Funcionais e não funcionais:
+
+Funcionais: o usuário poderá se cadastrar;
+            "    "       "   mexer no seu perfil;
+            "    "       "   ver o perfil das pessoas que opinaram sobre o assunto;
+            "    "       "   comentar os textos que vão estar expostos no site;
+            "    "       "   publicar seus próprios textos(expor a sua opinião);
+            "    "       "   denunciar algum comentário ou alguma pessoa;
+            
+Não funcionais: o usuário não poderá fazer ofenças aos outras pessoas;
+                "    "     "     "   
