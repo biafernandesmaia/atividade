@@ -5,7 +5,11 @@ Funcionais: o usuário poderá se cadastrar;
             "    "       "   ver o perfil das pessoas que opinaram sobre o assunto;
             "    "       "   comentar os textos que vão estar expostos no site;
             "    "       "   publicar seus próprios textos(expor a sua opinião);
-            "    "       "   denunciar algum comentário ou alguma pessoa;
+            "    "       "   denunciar algum comentário ofensivo ou alguma pessoa;
+            "    "       "   compartilhar os textos nas redes sociais, como: Facebook, WhatsApp, Twitter e etc;
+            "    "       "   poderá marcar os amigos que possuem conta no site;
             
-Não funcionais: o usuário não poderá fazer ofenças aos outras pessoas;
-                "    "     "     "   
+Não funcionais: o usuário não precisará saber o modo de segurança que o site utiliza;
+                "    "     "      "     ter acesso ao MER do site;
+                "    "     "  poderá mexer(editar) os textos que irão estar expostos no site;
+                    
