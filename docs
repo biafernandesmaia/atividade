@@ -4,10 +4,12 @@ R: Vai ser um site para falar sobre doação de orgãos e doação de sangue.
 Descrição: Este site é para as pessoas que estão fora do assunto, que não sabem o porque existe esses 2 tipos de doação.
 Para elas saberem direitinho o que é e para que serve, para saberem quais tipos de orgãos podem ser doados, em caso de qual doença ou morte que podem ser doados e a compatibilidade. E saberem também qual tipo de sangue é compatível um com o outro.
 Meu site também irá ter um bate-papo privado ou em grupo, para as pessoas poderem dialogar com outras pessoas, ou até mesmo com os donos do site.
-Irá funcionar como uma rede social, em que qualquer pessoa que possuir conta, poderá publicar no site, inclusive, vai ter alguns textos de apoio que irão estar expostos na página inicial do site.
-O usuário terá seu próprio cadastro na rede social, ele vai poder postar, comentar e compartilhar, e também vai poder adicionar outras pessoas para que possam conversar no bate-papo.
+Irá funcionar como uma rede social, em que qualquer pessoa que possuir conta, poderá publicar no site, inclusive, vai ter alguns textos que irão estar expostos na página inicial do site.
+O usuário terá seu próprio cadastro na rede social, ele vai poder publicar, comentar, compartilhar e curtir, e também vai poder adicionar outras pessoas para que possam conversar no bate-papo.
 Os administradores do site poderão banir(excluir) algum usuário que esta postando coisas abusivas, ou fazendo spam com outro usuário.
 E os administradores vão ficar responsáveis por cadastrar as pessoas.
+Os Textos que irão estar expostos vão ser tanto sobre doação de orgãos quanto de doação de sangue.
+Terá interções do tipo: um tubinho de sangue cheio se a pessoa apoia essas doações e um tubinho de sangue vazio se a pessoa não apoia.
 
 
 
@@ -18,14 +20,14 @@ Requisitos funcionais e não funcionais:
 
 Funcionais: o usuário poderá se cadastrar;
             "    "       "   editar no seu perfil;
-            "    "       "   ver o perfil das pessoas que opinaram sobre o assunto;
-            "    "       "   comentar os textos que vão estar expostos no site;
-            "    "       "   publicar seus próprios textos(expor a sua opinião);
-            "    "       "   denunciar algum comentário ofensivo ou alguma pessoa;
-            "    "       "   compartilhar os textos nas redes sociais, como: Facebook, WhatsApp, Twitter e etc;
+            "    "       "   publicar seus próprios Textos sobre as doações(expor a sua opinião);
+            "    "       "   comentar os Textos que vão estar expostos no site;
+            "    "       "   ver o perfil das pessoas que comentaram sobre os Textos;
+            "    "       "   interagir, comentar e compartilhar os Textos ou comentários;
+            "    "       "   denunciar algum comentário ou texto ofensivo;
+            "    "       "   compartilhar os Textos nas redes sociais, como: Facebook, WhatsApp, Twitter e etc;
             "    "       "   poderá marcar os amigos que possuem conta no site;
-            "    "       "      "   excluir postagens que ele mesmo fez;
-            "    "       "      "   editar  publicações que ele mesmo fez;
+            "    "       "      "   excluir ou editar o Texto que ele mesmo publicou;
             
 Não funcionais: o usuário não precisará saber o modo de segurança que o site utiliza;
                 "    "     "      "     ter acesso ao MER do site;
