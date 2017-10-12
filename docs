@@ -7,29 +7,29 @@ Para elas saberem direitinho o que é e para que serve, para saberem quais tipos
 *Como vai funcionar: O usuário terá seu próprio cadastro na rede social, ele vai poder publicar, comentar, compartilhar e interagir, e também vai poder adicionar outras pessoas para que possam conversar no bate-papo que poderá ser privado ou em grupo, para as pessoas dialogarem com outras pessoas, ou até mesmo com os administradores do site.
 Qualquer pessoa que possuir conta, poderá publicar no site, inclusive, vai ter alguns textos que irão estar expostos na página inicial do site.
 Os administradores do site poderão banir(excluir) algum usuário e eles ficarão responsáveis pelo cadastro dos usuários.
-Os Textos que irão estar expostos vão ser tanto sobre doação de orgãos quanto de doação de sangue.
-Vai ter um bate-papo "privado", que só vai ser acessado pelos adiministradores da rede social.
+Os Textos que irão estar expostos vão ser tanto sobre doação de orgãos quanto de doação de sangue e eles poderam ter imagens ou vídeos incluidos na publicação.
+Vai ter um bate-papo "privado", que só vai ser acessado pelos adiministradores da rede social para resolverem agum problema técnico e etc.
 
 *Interações da rede social: curtir, descurtir, um tubinho de sangue cheio se a pessoa apoia essas doações e um tubinho de sangue vazio se a pessoa não apoia.
 
 *Requisitos funcionais e não funcionais:
 
 -Funcionais: 1º o usuário poderá se cadastrar;
-            2º "    "       "   editar o seu perfil;
-            3º "    "       "   publicar seus próprios Textos sobre as doações(expor a sua opinião);
-            4º "    "       "   comentar os Textos que vão estar expostos no site, tanto dos administradores tanto dos próprios usuários;
-            5º "    "       "   ver o perfil das pessoas que comentaram sobre os Textos;
-            6º "    "       "   interagir, comentar e compartilhar os Textos ou comentários;
-            7º "    "       "   denunciar algum comentário ou texto ofensivo;
-            8º "    "       "   compartilhar os Textos nas redes sociais, como: Facebook, WhatsApp, Twitter e etc;
-            9º "    "       "   poderá marcar os amigos que possuem conta no site;
-           10º "    "       "      "   excluir ou editar o Texto que ele mesmo publicou;
+             2º "    "       "   editar o seu perfil;
+             3º "    "       "   publicar seus próprios Textos(expor a sua opinião);
+             4º "    "       "   comentar os Textos que vão estar expostos no site, tanto dos administradores quanto dos próprios usuários;
+             5º "    "       "   ver o perfil das pessoas que comentaram sobre os Textos;
+             6º "    "       "   interagir, comentar e compartilhar os Textos ou comentários;
+             7º "    "       "   denunciar algum comentário ou texto ofensivo;
+             8º "    "       "   compartilhar os Textos nas redes sociais, como: Facebook, WhatsApp, Twitter e etc;
+             9º "    "       "   poderá marcar os amigos que possuem conta no site;
+            10º "    "       "      "   excluir ou editar o Texto ou algum comentário que ele mesmo publicou ou fez;
             
--Não funcionais: 1º o usuário não precisará saber o modo de segurança que o site utiliza;
+-Não funcionais: 1º o usuário não vai ter acesso ao modo de segurança que o site utiliza;
                  2º "    "     "  poderá mexer(editar) os textos que irão estar expostos no site;
                  3º a rede social poderá ser acessada tanto no PC tanto no navegador do telefone;
                  4º "   "    "    vai ser atualizada de 2 em 2 meses para ter novidades;
-                 5º "   "    "    
+                   
                  
              
                     
