@@ -1,1 +1,0 @@
-link do mer: https://www.draw.io/#Hbiafernandesmaia%2Frede-social-%2Fmaster%2FMER
